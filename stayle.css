@@ -1,0 +1,21 @@
+table, td, th {  
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
+  .bodyDiv{
+      width: 70%;
+      background-color: rgb(255, 255, 255);
+      margin: auto;
+  }
+  body{
+      background-image: url(5214.jpg);
+  }
